@@ -1,6 +1,6 @@
 # RW-HXScript
 一个RW-HPS铁锈战争服务器linux自动安装脚本
-- 学业繁忙，暂时更新
+- 学业繁忙，暂时停止更新
 
 基于RW-HPS服务端安装脚本：[RW-HPS](https://github.com/RW-HPS/RW-HPS)
 ## 安装环境
